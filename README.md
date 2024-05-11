@@ -9,7 +9,7 @@ This project implements a custom UNIX shell interface in C++ that enables users 
 - **Program Selection Feature**: List and execute programs by selection number from the current directory.
 
 ## Building and Running
-### Requirements
+### Environment Used
 - **Compiler**: Clang
 - **Operating System**: macOS
 
